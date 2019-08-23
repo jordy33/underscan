@@ -1,0 +1,2 @@
+xrandr --output HDMI-1  --set "underscan hborder" 40 --set "underscan vborder" 20
+xrandr --output HDMI-1 --set underscan on
